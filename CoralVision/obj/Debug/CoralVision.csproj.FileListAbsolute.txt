@@ -1,0 +1,74 @@
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\bin\Debug\CoralVision.exe.config
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\bin\Debug\CoralVision.exe
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\bin\Debug\CoralVision.pdb
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\obj\Debug\CoralVision.csproj.SuggestedBindingRedirects.cache
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\obj\Debug\CoralVision.Form1.resources
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\obj\Debug\CoralVision.Properties.Resources.resources
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\obj\Debug\CoralVision.csproj.GenerateResource.cache
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\obj\Debug\CoralVision.csproj.CoreCompileInputs.cache
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\obj\Debug\CoralVision.csproj.CopyComplete
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\obj\Debug\CoralVision.exe
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\obj\Debug\CoralVision.pdb
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision\CoralVision\obj\Debug\CoralVision.csproj.AssemblyReference.cache
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.csproj.AssemblyReference.cache
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.csproj.SuggestedBindingRedirects.cache
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.Form1.resources
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.Properties.Resources.resources
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.csproj.GenerateResource.cache
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.csproj.CoreCompileInputs.cache
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.exe
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.pdb
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\CoralVision.exe.config
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\CoralVision.exe
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\CoralVision.pdb
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.csproj.CopyComplete
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\Thorlabs.MotionControl.KCube.BrushlessMotorCLI.dll
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\IronPython.dll
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\IronPython.Modules.dll
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\IronPython.SQLite.dll
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\IronPython.Wpf.dll
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Scripting.dll
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\IronPython.xml
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\IronPython.Modules.xml
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\IronPython.SQLite.xml
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\IronPython.Wpf.xml
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Scripting.xml
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\CoralVision.exe.manifest
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\bin\Debug\CoralVision.application
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.exe.manifest
+C:\Users\123456\Desktop\Camera_Viewer_Stage1\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.application
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.csproj.AssemblyReference.cache
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.csproj.SuggestedBindingRedirects.cache
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.Form1.resources
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.Properties.Resources.resources
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.csproj.GenerateResource.cache
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.csproj.CoreCompileInputs.cache
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.exe
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.pdb
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\CoralVision.exe.config
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\CoralVision.exe.manifest
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\CoralVision.application
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\CoralVision.exe
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\CoralVision.pdb
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\IronPython.dll
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\IronPython.Modules.dll
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\IronPython.SQLite.dll
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\IronPython.Wpf.dll
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Scripting.dll
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\Thorlabs.MotionControl.KCube.BrushlessMotorCLI.dll
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\IronPython.xml
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\IronPython.Modules.xml
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\IronPython.SQLite.xml
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\IronPython.Wpf.xml
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Scripting.xml
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.exe.manifest
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.application
+C:\Users\MIK PIV\Desktop\CoralVision_Saving\CoralVision\obj\Debug\CoralVision.csproj.CopyComplete
